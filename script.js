@@ -1,4 +1,4 @@
-var Farewell = new Date("Jul 11, 2021 10:00:00").getTime()
+var Farewell = new Date("Jul 9, 2021 10:00:00").getTime()
 
 function counter() {
 	let dateCurrent = new Date().getTime(),
